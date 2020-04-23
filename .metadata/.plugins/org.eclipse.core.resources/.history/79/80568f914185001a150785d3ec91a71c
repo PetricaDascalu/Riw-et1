@@ -1,0 +1,48 @@
+ package main;
+
+import java.util.HashSet;
+import java.util.Scanner;
+
+import parser.Data;
+import parser.IndexareDirecta;
+import parser.IndexareIndirecta;
+import search.Search;
+import search.VectorSearch;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		@SuppressWarnings("unused")
+		Data d = new Data();
+
+		Scanner in = new Scanner(System.in);
+		System.out.println("1-indexare directa\n2-indexare indirecta\n3-cautare vectoriala");
+		int num = in.nextInt();
+		switch(num)
+		{
+		case 1:
+			IndexareDirecta.directIndex("files");
+			break;
+		case 2:
+			IndexareIndirecta.indirectIndex();
+			break;
+		case 3:
+			long startTime, stopTime, timeOccur; 
+			startTime = System.currentTimeMillis();
+			String query = Search.readQueryFromUser();
+		    HashSet<String> rez = Search.booleanSearch(query);
+		    System.out.println((rez.size()==0)?"Nu sunt documente":rez + "\ncount:" + rez.size());
+		    VectorSearch.vectorSearch(rez,query);
+			stopTime = System.currentTimeMillis();
+			timeOccur = stopTime-startTime ;
+			System.out.println("Timpul necesar cautarii vectoriale este: "+ (double)timeOccur/1000 + " secunde");
+			break;
+		default:
+			System.out.println("Trebuie sa introduci 1/2/3");
+			break; 
+		}
+		in.close();
+	}
+
+}

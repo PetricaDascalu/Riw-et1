@@ -1,0 +1,41 @@
+ package main;
+
+import java.util.HashSet;
+import java.util.Scanner;
+
+import parser.Data;
+import parser.IndexareDirecta;
+import parser.IndexareIndirecta;
+import search.CautareaBooleana;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		@SuppressWarnings("unused")
+		Data d = new Data();
+
+		Scanner in = new Scanner(System.in);
+		System.out.println("1-indexare directa\n2-indexare indirecta\n3-cautare vectoriala");
+		int num = in.nextInt();
+		switch(num)
+		{
+		case 1:
+			IndexareDirecta.directIndex("files");
+			break;
+		case 2:
+			IndexareIndirecta.indirectIndex();
+			break;
+		case 3:
+			String query = CautareaBooleana.readQueryFromUser();
+		    HashSet<String> rez = CautareaBooleana.booleanSearch(query);
+		    System.out.println((rez.size()==0)?"Nu sunt documente":rez + "\ncount:" + rez.size());
+			break;
+		default:
+			System.out.println("Trebuie sa introduci 1/2/3");
+			break; 
+		}
+		in.close();
+	}
+
+}

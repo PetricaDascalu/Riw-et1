@@ -1,0 +1,154 @@
+package mongo;
+
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.Writer;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import org.bson.Document;
+
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import com.mongodb.MongoClient;
+import com.mongodb.client.FindIterable;
+import com.mongodb.client.MongoCollection;
+import com.mongodb.client.MongoDatabase;
+import objects.DirectIndexFormat;
+import objects.WordsFormat;
+
+public class MongoUsage {
+	static MongoClient mongoClient = new MongoClient("localhost", 27017);
+	static MongoDatabase database = mongoClient.getDatabase("mylib");
+
+	public static void popolateCollectionDirect(List<DirectIndexFormat> listOfFileTemplates) {
+		MongoCollection<Document> collection = database.getCollection("indexDirect");
+
+		for(DirectIndexFormat directIndex : listOfFileTemplates)
+		{
+			Document doc = new Document();
+			String word=directIndex.getFileName();
+			
+			doc.append("fileName",word);
+			List<Document> docs =  new ArrayList<Document>();
+			for(Map.Entry<String, Integer> entry : directIndex.getWords().entrySet())
+			{
+				Document docIterator = new Document();
+				docIterator.append("word", entry.getKey());
+				docIterator.append("count", entry.getValue());
+				docs.add(docIterator);
+			}
+			doc.append("docs",docs);
+			collection.insertOne(doc);
+		}
+	}
+	
+	public static void populateCollectionIndirect(List<WordsFormat> finalList)
+	{
+		MongoCollection<Document> collection = database.getCollection("indexIndirect");
+		
+		for(WordsFormat wordFormat : finalList)
+		{
+			Document doc = new Document();
+			String word=wordFormat.getWord();
+			
+			doc.append("word",word);
+			List<Document> docs =  new ArrayList<Document>();
+			for(Map.Entry<String, Integer> entry : wordFormat.getDocs().entrySet())
+			{
+				Document docIterator = new Document();
+				docIterator.append("doc", entry.getKey());
+				docIterator.append("count", entry.getValue());
+				docs.add(docIterator);
+			}
+			doc.append("docs",docs);
+			collection.insertOne(doc);
+		}
+	}
+	
+	public static List<WordsFormat> getDataFromIndirect()
+	{
+	    MongoCollection <Document> collection = database.getCollection("indexIndirect");
+	    FindIterable<Document> documents = collection.find();
+	    
+	    List<WordsFormat> list = new ArrayList<WordsFormat>();
+	    for (Document document : documents) {
+	    	WordsFormat wf = makeList(document);
+	    	list.add(wf);
+	    }
+	    return list;
+	}
+	
+	public static WordsFormat makeList(Document document)
+	{
+		WordsFormat wf = new WordsFormat();
+		HashMap<String, Integer> docs = new HashMap<String, Integer>();
+		wf.setWord(document.getString("word"));
+		@SuppressWarnings("unchecked")
+		List<Document> docTerms =  (List<Document>)document.get("docs");
+    	for (Document docTerm : docTerms) {
+    		docs.put(docTerm.getString("doc"), docTerm.getInteger("count"));
+    	}
+    	wf.setDocs(docs);
+		return wf;
+	}
+	
+	public static void indirectIndexToFile(){
+		List<WordsFormat> list = getDataFromIndirect();
+		Gson g = new GsonBuilder().setPrettyPrinting().create();
+		String strJson = g.toJson(list);
+		
+		Writer writer = null;
+		try {
+			writer = new FileWriter("indexIndirectMongoDB.json");
+			writer.write(strJson);
+			writer.close();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
+	//indexDirect
+	public static List<DirectIndexFormat> getDataFromDirect()
+	{
+	    MongoCollection <Document> collection = database.getCollection("indexDirect");
+	    FindIterable<Document> documents = collection.find();
+	    
+	    List<DirectIndexFormat> list = new ArrayList<DirectIndexFormat>();
+	    for (Document document : documents) {
+	    	DirectIndexFormat wf = makeListDirect(document);
+	    	list.add(wf);
+	    }
+	    return list;
+	}
+	
+	public static DirectIndexFormat makeListDirect(Document document)
+	{
+		DirectIndexFormat wf = new DirectIndexFormat();
+		HashMap<String, Integer> words = new HashMap<String, Integer>();
+		wf.setFileName(document.getString("fileName"));
+		List<Document> docTerms =  (List<Document>)document.get("docs");
+    	for (Document docTerm : docTerms) {
+    		words.put(docTerm.getString("word"), docTerm.getInteger("count"));
+    	}
+    	wf.setWords(words);
+		return wf;
+	}
+	
+	public static void directIndexToFile(){
+		List<DirectIndexFormat> list = getDataFromDirect();
+		Gson g = new GsonBuilder().setPrettyPrinting().create();
+		String strJson = g.toJson(list);
+		Writer writer = null;
+		try {
+			writer = new FileWriter("indexDirectMongoDB.json");
+			writer.write(strJson);
+			writer.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+}

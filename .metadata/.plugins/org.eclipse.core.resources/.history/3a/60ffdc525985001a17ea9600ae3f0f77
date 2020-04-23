@@ -1,0 +1,3620 @@
+[
+  {
+    "word": "08",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "1",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2
+    }
+  },
+  {
+    "word": "10",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "11",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "12",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3
+    }
+  },
+  {
+    "word": "13",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2
+    }
+  },
+  {
+    "word": "16",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "18",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "19",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "1974",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "1995",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "2",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2
+    }
+  },
+  {
+    "word": "20",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "2016",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "2017",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 7,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "2018",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 15,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 19
+    }
+  },
+  {
+    "word": "21",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 5
+    }
+  },
+  {
+    "word": "22",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "23",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "25",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "28",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "29",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "3",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 5,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "30",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "3q",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "4",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "5",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "500",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "534",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "6",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "7",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "75",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "8",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "9",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "95",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "99",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "aboard",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "academ",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "academi",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "access",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "achiev",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "acquir",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 6,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 5
+    }
+  },
+  {
+    "word": "activ",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 5,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "advanc",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "ai",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "aim",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "air",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "al",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "alumni",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "amarasingh",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "america",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "american",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "analyt",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "analyz",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "anikeeva",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "anjali",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "ann",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "announc",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "answer",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "approach",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "architectur",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "archiv",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "art",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 7
+    }
+  },
+  {
+    "word": "articl",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2
+    }
+  },
+  {
+    "word": "artifici",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 8,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "artist",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "associ",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3
+    }
+  },
+  {
+    "word": "atmospher",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "augment",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "autom",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "avoid",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "award",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "azraq",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "babi",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "badli",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "base",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "batteri",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "better",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "biggest",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "bill",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "bioinspir",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "biolog",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "biologi",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "biomimet",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "black",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "bodi",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "boson",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2
+    }
+  },
+  {
+    "word": "bound",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "brain",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 7,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 5
+    }
+  },
+  {
+    "word": "bring",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "brows",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 9,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 8
+    }
+  },
+  {
+    "word": "browser",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "buongiorno",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "burton",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "camp",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "campu",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "cancer",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "car",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "carbon",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "care",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "carpentri",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 7
+    }
+  },
+  {
+    "word": "catalyst",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "celebr",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "center",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 4,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 8
+    }
+  },
+  {
+    "word": "chang",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2
+    }
+  },
+  {
+    "word": "chao",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "chapter",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "chase",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "chemistri",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "chip",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "cite",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "citi",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "claim",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "class",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "clean",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "clear",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "climat",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "cluster",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "collabor",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "collect",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "colleg",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "color",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2
+    }
+  },
+  {
+    "word": "competit",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "complex",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "comput",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 14,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 5
+    }
+  },
+  {
+    "word": "conduct",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "confer",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "connect",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "conner",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "consumpt",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2
+    }
+  },
+  {
+    "word": "continu",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "control",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "convers",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "crafoord",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "creat",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "creativ",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "crise",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "crispr",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "csail",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 9,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "cultur",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "current",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "custom",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 9
+    }
+  },
+  {
+    "word": "dai",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "damag",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "danger",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "dare",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "data",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "decemb",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3
+    }
+  },
+  {
+    "word": "deepli",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "deliv",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "democraci",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "dentist",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "depart",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 4,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "depth",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "design",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 4,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "desir",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "determin",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "develop",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "devic",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "devis",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "diagnos",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "digit",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "direct",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "director",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "discuss",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "diseas",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "dna",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "dormant",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "drive",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "drone",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "dy",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "eap",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "earth",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "economi",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "eec",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "effect",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "effici",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "elect",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "electr",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 6,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 6
+    }
+  },
+  {
+    "word": "electron",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "electroweak",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2
+    }
+  },
+  {
+    "word": "enabl",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "encrypt",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "energi",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 9
+    }
+  },
+  {
+    "word": "engin",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 8,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 9
+    }
+  },
+  {
+    "word": "enzym",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "era",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "escher",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "event",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "evolut",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "exchang",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "exhibit",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "expand",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "expert",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "explain",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "explor",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 6,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 9
+    }
+  },
+  {
+    "word": "face",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "facebook",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "faculti",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "fail",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 4,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "featur",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "februari",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 7,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 13
+    }
+  },
+  {
+    "word": "fellow",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2
+    }
+  },
+  {
+    "word": "fellowship",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "feng",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "field",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "fieldwork",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "financi",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "find",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "fine",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "flickr",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "flip",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "fly",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "fold",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "follow",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 7,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 7
+    }
+  },
+  {
+    "word": "forb",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "forc",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "form",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "fourth",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "fox",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "fragil",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "friend",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "function",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "fund",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "furnitur",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "fusion",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "futur",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 4,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 9
+    }
+  },
+  {
+    "word": "game",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2
+    }
+  },
+  {
+    "word": "gener",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "genet",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "german",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "glimps",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "global",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "glori",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "gloria",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "goal",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "goldwass",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "google",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "greatest",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "groovi",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "groundbreak",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "group",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "grow",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "grown",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "hard",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "hardwar",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "harrel",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "head",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "health",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "heart",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "heat",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "heis",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "helmreich",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "help",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 11,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "henriett",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "heritag",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "high",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "histori",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "hobbi",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "hole",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "honor",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "hope",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "hospit",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "hour",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "hous",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "houston",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "huldisch",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "human",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 5,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 6
+    }
+  },
+  {
+    "word": "humanitarian",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "ian",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "illumin",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "imag",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "immigr",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 5
+    }
+  },
+  {
+    "word": "impact",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "imperi",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "increas",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "industri",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "infant",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "influenti",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "initi",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "ink",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "inner",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "instagram",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "institut",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "integr",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "intellig",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 7,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "internet",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "intersect",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "jacopo",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "jai",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "januari",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3
+    }
+  },
+  {
+    "word": "job",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "joel",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "john",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "join",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "jordanian",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "kei",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3
+    }
+  },
+  {
+    "word": "killian",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "knowledg",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "lab",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 4,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 6
+    }
+  },
+  {
+    "word": "laboratori",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 7,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "lament",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "languag",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "launch",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "leader",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "leadership",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "leap",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "left",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "lienhard",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "life",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "lifelong",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "light",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "list",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "login",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "london",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "love",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "low",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "lozano",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "lynch",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "machin",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "machineri",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "make",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "malaria",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "man",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "manag",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "manu",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "marcu",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "match",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "materi",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 4
+    }
+  },
+  {
+    "word": "mccant",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "medicin",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "member",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "men",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "meteorolog",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "method",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "metoo",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "mexico",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "micali",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "mile",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "mind",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "minim",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "misconduct",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "misra",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "mit",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "mitchel",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "mitei",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "model",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "modern",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "month",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "moral",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "music",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "name",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "nanci",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "nanomap",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "nanotub",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "nation",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "network",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 6,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "neural",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 6,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "neuron",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "new",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 4,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "newslett",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "newsmassachusett",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "niantic",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "novel",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "novemb",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2
+    }
+  },
+  {
+    "word": "nuclear",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 6
+    }
+  },
+  {
+    "word": "object",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3
+    }
+  },
+  {
+    "word": "observ",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2
+    }
+  },
+  {
+    "word": "obstacl",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "offic",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "open",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "ouch",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "pain",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "pair",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2
+    }
+  },
+  {
+    "word": "panda",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "panelist",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "parasit",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "parson",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "partnership",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "patch",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "peopl",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "percent",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2
+    }
+  },
+  {
+    "word": "perez",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "perform",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "physic",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "physicist",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "pioneer",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "place",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "plai",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "plan",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "planetari",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "plastic",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "player",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "point",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "polici",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 4,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 7
+    }
+  },
+  {
+    "word": "polina",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "polym",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 4,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "popular",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "post",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "power",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3
+    }
+  },
+  {
+    "word": "practic",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "predict",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "press",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "primer",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "print",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "privat",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 13,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 12
+    }
+  },
+  {
+    "word": "prize",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "problem",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "process",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "product",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3
+    }
+  },
+  {
+    "word": "professor",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "program",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 5,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 5
+    }
+  },
+  {
+    "word": "project",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "properti",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "protagonist",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "provid",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "public",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "publish",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "puppi",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "purpos",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "putnam",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "quarter",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "question",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 5
+    }
+  },
+  {
+    "word": "rank",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "read",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2
+    }
+  },
+  {
+    "word": "realiti",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2
+    }
+  },
+  {
+    "word": "receiv",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "recipi",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "reclaim",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "recogn",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "recognit",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "reduc",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "reflect",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "refuge",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "region",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "repeatedli",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "research",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "resolut",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "respons",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "restor",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "reveal",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 4,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 6
+    }
+  },
+  {
+    "word": "richard",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "robot",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 11,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "rss",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "ryan",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "saman",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "sandbox",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 6,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 5
+    }
+  },
+  {
+    "word": "saw",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "scene",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "scheib",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "scholar",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "scholarship",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "school",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 6,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 7
+    }
+  },
+  {
+    "word": "schrock",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "schwarzman",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "scienc",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 15,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 10
+    }
+  },
+  {
+    "word": "scientist",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 4,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "sculptur",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "search",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "sector",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "secur",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "seek",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "sens",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "sensit",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "sensor",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "seri",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "set",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "sexual",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "share",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "shass",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "sherri",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "ship",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "showcas",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "sign",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "simon",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "simul",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "sipser",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "size",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "slaveri",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 5
+    }
+  },
+  {
+    "word": "sloan",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 5
+    }
+  },
+  {
+    "word": "smoke",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "social",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "societi",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "sold",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "solomon",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "solv",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "sound",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "special",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "speed",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "sport",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "startup",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 8,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 6
+    }
+  },
+  {
+    "word": "state",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "stefan",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "stent",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 4,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "step",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "stereotyp",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "strateg",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "strength",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "strong",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "structur",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 4,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "struggl",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "student",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 6
+    }
+  },
+  {
+    "word": "studi",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 7,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 6
+    }
+  },
+  {
+    "word": "subscrib",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "success",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "summit",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "susan",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "synaps",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "syndrom",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "system",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 7,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "taiwanes",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "talk",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "task",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "team",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "techniqu",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "technolog",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 3,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 5
+    }
+  },
+  {
+    "word": "ten",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2
+    }
+  },
+  {
+    "word": "tenur",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "texa",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "theater",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "theoret",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "thing",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "thompson",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "three",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "time",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "tool",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "topic",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "tour",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "trauma",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "tune",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "turkl",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "turn",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "twitter",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "ultraviolet",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "uncertainti",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "understand",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "uniqu",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "unit",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "univers",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "user",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "video",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "vilcek",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "violist",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "vision",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "visual",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "voldman",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "waf",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "wall",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "water",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 4
+    }
+  },
+  {
+    "word": "web",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "websit",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "welcom",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "wide",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "william",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "win",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "window",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 2,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 2
+    }
+  },
+  {
+    "word": "woman",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "wong",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "work",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 5,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 5
+    }
+  },
+  {
+    "word": "workplac",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1
+    }
+  },
+  {
+    "word": "write",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "writer",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "year",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 3
+    }
+  },
+  {
+    "word": "youtub",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  },
+  {
+    "word": "zhang",
+    "docs": {
+      "E:\\JavaW\\RiwEt1\\file\\topic\\csail.html": 1,
+      "E:\\JavaW\\RiwEt1\\file\\campus.html": 1
+    }
+  }
+]

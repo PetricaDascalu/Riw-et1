@@ -1,0 +1,2 @@
+csail.html:indexDirectMongoDB.json
+campus.html:indexDirectMongoDB.json

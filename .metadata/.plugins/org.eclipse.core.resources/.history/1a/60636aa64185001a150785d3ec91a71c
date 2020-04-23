@@ -1,0 +1,33 @@
+ackage objects;
+
+import java.util.HashMap;
+
+public class VectorSearchHelper {
+	private String document;
+	private HashMap<String, Double> keys;
+	private double  similarity;
+
+	public VectorSearchHelper(String document, HashMap<String, Double> keys, double similarity) {
+		setDocument(document);
+		setKeys(keys);
+		setSimilarity(similarity);
+	}
+	public String getDocument() {
+		return document;
+	}
+	public void setDocument(String document) {
+		this.document = document;
+	}
+	public HashMap<String, Double> getKeys() {
+		return keys;
+	}
+	public void setKeys(HashMap<String, Double> keys) {
+		this.keys = keys;
+	}
+	public double getSimilarity() {
+		return similarity;
+	}
+	public void setSimilarity(double similarity) {
+		this.similarity = similarity;
+	}
+}

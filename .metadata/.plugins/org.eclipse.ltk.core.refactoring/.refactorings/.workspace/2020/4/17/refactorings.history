@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;riwMongoDB&apos; to &apos;RiwEt1&apos;" description="Rename resource &apos;riwMongoDB&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/riwMongoDB" name="RiwEt1" stamp="1587635362828" updateReferences="true"/>
+</session>

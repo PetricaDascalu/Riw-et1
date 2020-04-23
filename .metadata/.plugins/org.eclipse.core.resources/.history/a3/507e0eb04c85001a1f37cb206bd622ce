@@ -1,0 +1,78 @@
+package parser;
+
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
+import mongo.MongoUsage;
+import objects.IndexareDirectaF;
+import objects.WordsFormat;
+
+public class IndexareIndirecta {
+	private static List<WordsFormat> reverse(String filename){
+		List<WordsFormat> list = new ArrayList<WordsFormat>();
+        Gson gson = new Gson();
+        String json = Parser.readFromFile(filename);
+        List<IndexareDirectaF> listOfFiles = gson.fromJson(json, new TypeToken<List<IndexareDirectaF>>() {}.getType());
+        for (IndexareDirectaF di : listOfFiles) {
+			for (Map.Entry<String,Integer> word : di.getWords().entrySet()) {
+				WordsFormat wt = new WordsFormat();
+				wt.setWord(word.getKey());
+				wt.add(di.getFileName(), word.getValue()); //document - nr de aparitie
+				list.add(wt);
+			}
+		}
+        return list;
+	}
+	
+	//unirea fisierelor
+	private static List<WordsFormat> gather(List<WordsFormat> list){
+		List<WordsFormat> finalList = new ArrayList<WordsFormat>();
+		finalList.add(list.get(0));
+		int last = 0;
+		for (WordsFormat wordsTemplate : list) {
+			if(finalList.get(last).getWord().equals(wordsTemplate.getWord())){
+				finalList.get(last).getDocs().putAll(wordsTemplate.getDocs());
+			}
+			else{
+				finalList.add(wordsTemplate);
+				++last;
+			}
+		}
+		return finalList;
+	}
+
+	private static void sort(List<WordsFormat> list) {
+        list.sort(Comparator.comparing(WordsFormat::getWord));
+    }
+	
+	public HashMap<String, Integer> getDocsFromWord(String word, List<WordsFormat> list)
+	{
+		HashMap<String, Integer> docs = new HashMap<String, Integer>();
+		for (WordsFormat wordsTemplate : list) {
+			if(word==wordsTemplate.getWord())
+			{
+				docs = wordsTemplate.getDocs();
+			}
+			else
+			{
+				System.out.println("Nu exista asa ceva!");
+				return null;
+			}
+		}
+		return docs;
+	}
+	
+	public static void indirectIndex(){
+		List<WordsFormat> list = IndexareIndirecta.reverse("indexDirectMongoDB.json");
+		sort(list);
+		List<WordsFormat> finalList = gather(list);
+		//indirectIndexToFile(finalList);
+		MongoUsage.populateCollectionIndirect(finalList);
+		MongoUsage.indirectIndexToFile();
+	}
+}

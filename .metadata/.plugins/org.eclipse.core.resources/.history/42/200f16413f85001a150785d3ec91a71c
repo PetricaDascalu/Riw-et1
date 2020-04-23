@@ -1,0 +1,289 @@
+package search;
+
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.Writer;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Map;
+
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import com.google.gson.reflect.TypeToken;
+
+import Stemmer.Stemmer;
+import objects.IndexareDirectaF;
+import objects.VectorSearchHelper;
+import objects.WordsFormat;
+import parser.Data;
+import parser.Parser;
+
+public class VectorSearch {
+	private static HashSet<IndexareDirectaF> directIndex;
+	private static HashSet<WordsFormat> indirectIndex;
+	private static HashSet<VectorSearchHelper> vsObjects = new HashSet<>();
+	
+	private static void loadIndirectIndex()
+	{
+		Gson gson = new Gson();
+		String json = Parser.readFromFile("indexIndirectMongoDB.json");
+		indirectIndex = gson.fromJson(json, new TypeToken<HashSet<WordsFormat>>() {
+		}.getType());
+	}
+	
+	private static void loadDirectIndex() {
+		Gson gson = new Gson();
+		String json = Parser.readFromFile("indexDirectMongoDB.json");
+		directIndex = gson.fromJson(json, new TypeToken<HashSet<IndexareDirectaF>>() {
+		}.getType());
+	}
+	
+	private static int getNrOfAppearances(String fileName, String word)
+	{
+		for(IndexareDirectaF directIndexFormat : directIndex)
+		{
+			if(directIndexFormat.getFileName().equals(fileName))
+			{
+				if(directIndexFormat.getWords().containsKey(word)) {
+					return directIndexFormat.getWords().get(word);
+				}
+			}
+		}
+		return 0;
+	}
+	
+	private static int getNrOfWordsForDoc(String fileName)
+	{
+		for(IndexareDirectaF directIndexFormat : directIndex)
+		{
+			if(directIndexFormat.getFileName().equals(fileName))
+			{
+				return directIndexFormat.getWords().size();
+			}
+		}
+		return 0;
+	}
+	
+	private static double termFrequency(String key, String document)
+	{
+		double tf=(double)getNrOfAppearances(document, key)/getNrOfWordsForDoc(document);
+		return tf;
+	}
+	
+	public static HashMap<String,Integer> splitIntoOperands(String query) {//cu eliminarea cuvintelor care au - in fata
+		HashMap<String,Integer> list = new HashMap<String,Integer>();
+		String[] words = new String[20];
+		String word = "";
+		char c;
+		int  j = 0;
+		char op = ' ';
+		for(int i = 0; i < query.length(); i++){
+			c = query.charAt(i);
+			if((c<'a'|| c>'z') && ( c<'A' || c>'Z') && (c<'0' || c>'9')){
+				if(op != '-'){
+					if(word != ""){
+						words[j] = word; 
+						j++;
+						word="";
+					}
+					if(c == '-'){
+						op = '-';
+					}
+					else{
+						op = ' ';
+					}
+				}
+				else{
+					word = "";
+					op = ' ';
+				}
+			}
+			else{
+				word += c;
+			}
+		}
+		if(word != ""){
+			if(op != '-'){
+				words[j++] = word;
+			}
+		}
+		for (int i = 0; i < j; i++) {
+			String string = words[i];
+			if(string != null){
+				if (Data.isException(string)) {
+					string = string.toLowerCase();
+					if(list.containsKey(string)){
+						list.put(string, list.get(string) + 1);
+					}
+					else{
+						list.put(string, 1);
+					}
+				} else {
+					string = string.toLowerCase();
+					if (Data.isStopWord(string)) {
+						continue;
+					} else {
+						Stemmer s = new Stemmer();
+						char[] chs = string.toCharArray();
+						s.add(chs, chs.length);
+						s.stem();
+						string = s.toString();
+						if(list.containsKey(string)){
+							list.put(string, list.get(string) + 1);
+						}
+						else{
+							list.put(string, 1);
+						}
+					}
+				}
+			}	
+		}
+		return list;
+	}
+
+	
+	private static double termFrequencyForQuery(String key, String query, HashMap<String,Integer> queryWords)
+	{
+		int nrOfWordsFromQuery = query.split(" ").length;
+		//numarul de aparitii al unui cuvant intr-un query
+		int nrOfWordAppearences = 0; 
+		Stemmer s = new Stemmer();
+		char[] chs = key.toCharArray();
+		s.add(chs, chs.length);
+		s.stem();
+		key = s.toString();
+		for(Map.Entry<String, Integer> word : queryWords.entrySet()){
+			if(word.getKey().equals(key)){
+				nrOfWordAppearences = word.getValue();
+				break;
+			}		
+		}
+		return (double)nrOfWordAppearences/nrOfWordsFromQuery;
+	}
+	
+	private static int getNrOfDocsForWord(String word){
+		for (WordsFormat ii : indirectIndex) {
+			if(ii.getWord().equals(word)){
+				return ii.getDocs().size();
+			}
+		}
+		return 0;
+	}
+
+	private static double inversDocumentFrequency(String key){
+		int docNr=directIndex.size();
+		double idf=Math.log(docNr/(double)getNrOfDocsForWord(key));
+		return idf;
+	}
+	
+	private static HashMap<String, Double> getKeys(IndexareDirectaF dif){
+		HashMap<String, Double> keys = new HashMap<>();
+		 //pentru fiecare cuvant dintr-un doc se calculeaza tf*idf
+		for (Map.Entry<String,Integer> word : dif.getWords().entrySet()) {
+			double tf = termFrequency(word.getKey(), dif.getFileName());
+			double idf = inversDocumentFrequency(word.getKey());
+			keys.put(word.getKey(), tf * idf);
+		}
+		return keys;
+	}
+	
+	private static void populateVSObjects(HashSet<String> documents){
+		for(String doc : documents){
+			for (IndexareDirectaF directIndexFormat : directIndex) 
+			{
+				if(directIndexFormat.getFileName().equals(doc)) {
+					HashMap<String, Double> keys = getKeys(directIndexFormat);
+					VectorSearchHelper v = new VectorSearchHelper(directIndexFormat.getFileName(), keys, 0.0);
+					vsObjects.add(v);
+				}
+			}
+		}
+	}
+
+	private static void toFile(Object o, String fileName){
+		Gson g = new GsonBuilder().setPrettyPrinting().create();
+		String strJson = g.toJson(o);
+		Writer writer = null;
+		try {
+			writer = new FileWriter(fileName);
+			writer.write(strJson);
+			writer.close();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
+	private static double dotProduct(HashMap<String,Double> queryKeys,HashMap<String,Double> docKeys){
+		double product = 1.0;
+		for(Map.Entry<String, Double> aux : queryKeys.entrySet()){
+			if(docKeys.containsKey(aux.getKey())){
+				product *= aux.getValue() * docKeys.get(aux.getKey());
+			}
+		}
+		return product;
+	}
+	
+	private static double norm(HashMap<String, Double> obj){
+		double norm = 0.0;
+		for(Map.Entry<String, Double> aux : obj.entrySet()){
+			//se calculeaza norma cu valoarea tf*idf
+			norm += aux.getValue() * aux.getValue();
+		}
+		norm = Math.sqrt(norm);
+		return norm;
+	}
+
+	
+	private static void similarity(VectorSearchHelper q)
+	{
+		double sim;
+		double norm2=norm(q.getKeys());
+		 //pentru fiecare document din vsObjects se calculeaza similaritatea
+		for(VectorSearchHelper doc : vsObjects)
+		{
+			double dp = dotProduct(q.getKeys(), doc.getKeys());
+			if(dp==0)
+			{
+				sim=0;
+			}
+			else
+			{
+				double norm1=norm(doc.getKeys());
+				sim=dp/(norm1*norm2);
+			}
+			doc.setSimilarity(sim);
+		}
+	}
+
+	public static void vectorSearch(HashSet<String> documents, String query){
+		loadDirectIndex();
+		loadIndirectIndex();
+		//transformare fiecare document cu word: tf*idf
+		populateVSObjects(documents);
+		//toFile(vsObjects, "vsobjects.json");
+		//transformare interogare 
+		HashMap<String,Double> keys = new HashMap<>();
+		HashMap<String,Integer> queryWords = splitIntoOperands(query);
+		for(Map.Entry<String, Integer> word: queryWords.entrySet()){
+			double tf = termFrequencyForQuery(word.getKey(), query, queryWords);
+			double idf = inversDocumentFrequency(word.getKey());
+			keys.put(word.getKey(), tf * idf);
+		}
+		VectorSearchHelper queryWordsTemplate = new VectorSearchHelper(query,keys,0.0);
+		//toFile(queryWordsTemplate,"query.json");
+		//pentru fiecare document se calculeaza similaritatea dintre el si query
+		similarity(queryWordsTemplate);
+		//toFile(vsObjects,"verificare.json");
+		//se sorteaza descrescator vsObjects in functie de similaritate
+		List<VectorSearchHelper> listForSort = new ArrayList<>(vsObjects);
+		listForSort.sort(Comparator.comparing(VectorSearchHelper::getSimilarity));
+		Collections.reverse(listForSort);
+		//afiseaza setul relevant de date
+		toFile(listForSort,"docs.json");	
+	}
+}
