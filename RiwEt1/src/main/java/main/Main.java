@@ -16,7 +16,10 @@ public class Main {
 		Data d = new Data();
 
 		Scanner in = new Scanner(System.in);
-		System.out.println("1-indexare directa\n2-indexare indirecta\n3-cautare booleana");
+		System.out.println(
+				"1 : Realizeza indexarea directa \n "
+			+ "2: Realizeaza indexarea indirecta\n"
+				+ "3: Realizeza cautarea booleana");
 		int num = in.nextInt();
 		switch(num)
 		{
@@ -29,7 +32,7 @@ public class Main {
 		case 3:
 			String query = CautareaBooleana.readQueryFromUser();
 		    HashSet<String> rez = CautareaBooleana.booleanSearch(query);
-		    System.out.println((rez.size()==0)?"Nu sunt documente":rez + "\ncount:" + rez.size());
+		    System.out.println((rez.size()==0)?"Nu s-au gasit documente":rez + "\ncount:" + rez.size());
 			break;
 		default:
 			System.out.println("Introdu 1, 2 sau 3");
