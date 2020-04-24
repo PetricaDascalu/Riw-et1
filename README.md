@@ -10,4 +10,4 @@ Baza de date folosită se numește mylib iar tabelele folosite sunt indexDirect 
 4. mongodb-driver-3.0.4.jar
 5. mongodb-driver-core-3.0.4.jar 
 # Nota
- Nota pe care o presupun pentru acest proiect este 7.
+ Nota pe care o presupun pentru acest proiect este 8.
