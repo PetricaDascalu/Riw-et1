@@ -8,9 +8,10 @@ import java.util.Map;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-import mongo.MongoUsage;
-import objects.IndexareDirectaH;
-import objects.IndexareIndirctaH;
+
+import helper.IndexareDirectaH;
+import helper.IndexareIndirctaH;
+import mongoDB.Mongo;
 
 public class IndexareIndirecta {
 	private static List<IndexareIndirctaH> reverse(String filename){
@@ -71,7 +72,7 @@ public class IndexareIndirecta {
 		List<IndexareIndirctaH> list = IndexareIndirecta.reverse("IndexareDirectaMongoDB.json");
 		sort(list);
 		List<IndexareIndirctaH> finalList = gather(list);
-		MongoUsage.populateCollectionIndirect(finalList);
-		MongoUsage.indirectIndexToFile();
+		Mongo.populateCollectionIndirect(finalList);
+		Mongo.indirectIndexToFile();
 	}
 }

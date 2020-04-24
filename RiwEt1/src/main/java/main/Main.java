@@ -3,7 +3,7 @@
 import java.util.HashSet;
 import java.util.Scanner;
 
-import parser.Data;
+import parser.HtmlProcessing;
 import parser.IndexareDirecta;
 import parser.IndexareIndirecta;
 import search.CautareaBooleana;
@@ -13,7 +13,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		@SuppressWarnings("unused")
-		Data d = new Data();
+		HtmlProcessing d = new HtmlProcessing();
 
 		Scanner in = new Scanner(System.in);
 		System.out.println(

@@ -7,10 +7,11 @@ import java.util.List;
 import java.util.Scanner;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-import Stemmer.Stemmer;
-import objects.IndexareIndirctaH;
-import parser.Data;
+
+import helper.IndexareIndirctaH;
+import parser.HtmlProcessing;
 import parser.Parser;
+import stemming.Stemming;
 
 
 public class CautareaBooleana {
@@ -53,20 +54,20 @@ public class CautareaBooleana {
 		String[] words = query.split("[-|+|\\s]");
 		
 		for (String string : words) {
-			if (Data.isException(string)) {
+			if (HtmlProcessing.isException(string)) {
 				string = string.toLowerCase();
 				list.add(string);
 			} 
 			else
 			{
 				string = string.toLowerCase();
-				if (Data.isStopWord(string)) 
+				if (HtmlProcessing.isStopWord(string)) 
 				{
 					continue;
 				} 
 				else
 				{
-					Stemmer s = new Stemmer();
+					Stemming s = new Stemming();
 					char[] chs = string.toCharArray();
 					s.add(chs, chs.length);
 					s.stem();

@@ -11,8 +11,9 @@ import java.io.Writer;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-import mongo.MongoUsage;
-import objects.IndexareDirectaH;
+
+import helper.IndexareDirectaH;
+import mongoDB.Mongo;
 
 public class IndexareDirecta {
 
@@ -79,8 +80,8 @@ public class IndexareDirecta {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		MongoUsage.popolateCollectionDirect(listOfFileTemplates);
-		MongoUsage.directIndexToFile();
+		Mongo.popolateCollectionDirect(listOfFileTemplates);
+		Mongo.directIndexToFile();
 	}
 
 }

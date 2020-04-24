@@ -14,24 +14,24 @@ import java.util.Stack;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
-import objects.HtmlHelp;
+import helper.HtmlHelp;
 
 public class Parser {
 	
 	public static void parseInformations(Writer writer,File input){
 		try {
 			Document doc = Jsoup.parse(input, "UTF-8");
-			if(Data.getTitle(doc)!=null){
-				String title = Data.getTitle(doc);
+			if(HtmlProcessing.getTitle(doc)!=null){
+				String title = HtmlProcessing.getTitle(doc);
 				writer.write(title);
 			}
-			List<HtmlHelp> metadatas = Data.getMetadatas(doc);
+			List<HtmlHelp> metadatas = HtmlProcessing.getMetadatas(doc);
 			for (HtmlHelp metadata : metadatas) {
 				if(metadata.getName()!="robots"){
 					writer.write(metadata.getContent());
 				}
 			}
-			String text = Data.getText(doc);
+			String text = HtmlProcessing.getText(doc);
 			writer.write(text);
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
@@ -43,7 +43,7 @@ public class Parser {
 		Document doc;
 		try {
 			doc = Jsoup.parse(input, null);
-			HashSet<String> urls = Data.getLinks(doc);
+			HashSet<String> urls = HtmlProcessing.getLinks(doc);
 	        for (String element : urls) {
 				writer.write(element+"\n");
 			}
@@ -82,7 +82,7 @@ public class Parser {
 	public static HashMap<String, Integer> parseText(File file){
 		HashMap <String,Integer> words = new HashMap<String,Integer>();
 		String doc = readFromFile(file.getAbsolutePath());
-		Data.getWords(doc, words);
+		HtmlProcessing.getWords(doc, words);
 		return words;
 	}
 	
